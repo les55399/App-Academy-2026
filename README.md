@@ -24,22 +24,22 @@ My goal isn't simply to complete the curriculum—it's to understand the concept
 
 ---
 
-# 🎯 What I'm Learning
+# What I'm Learning
 
-- 🐍 Python Programming
-- 🧠 Problem Solving
-- ⚙️ Object-Oriented Programming
-- 🌐 APIs
-- 🗄️ Databases
-- 🔥 Git & GitHub
-- 🧩 Data Structures & Algorithms
-- 🏗️ Software Engineering Principles
-- 🧪 Debugging & Testing
-- 🚀 Building Real-World Applications
+-  Python Programming
+-  Problem Solving
+-  Object-Oriented Programming
+-  APIs
+-  Databases
+-  Git & GitHub
+-  Data Structures & Algorithms
+-  Software Engineering Principles
+-  Debugging & Testing
+-  Building Real-World Applications
 
 ---
 
-# 🌱 My Goals
+#  My Goals
 
 ✔ Build projects consistently
 
@@ -55,7 +55,7 @@ My goal isn't simply to complete the curriculum—it's to understand the concept
 
 ---
 
-# 📈 My Progress
+#  My Progress
 
 > Every commit represents another lesson learned.
 
@@ -66,7 +66,7 @@ Learning Never Stops...
 
 ---
 
-# 💭 Philosophy
+#  Philosophy
 
 > *"Great developers aren't born—they're built through consistency, curiosity, and countless lines of code."*
 
@@ -76,7 +76,7 @@ It's a timeline of my progress, mistakes, lessons, and achievements as I work to
 
 ---
 
-# 🛠️ Currently Working On
+# Currently Working On
 
 - Python Fundamentals
 - Building Projects
@@ -86,7 +86,7 @@ It's a timeline of my progress, mistakes, lessons, and achievements as I work to
 
 ---
 
-# 📚 Future Topics
+#  Future Topics
 
 - Web Development
 - APIs
@@ -99,33 +99,11 @@ It's a timeline of my progress, mistakes, lessons, and achievements as I work to
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
