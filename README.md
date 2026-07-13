@@ -1,5 +1,5 @@
 <h1 align="center">
-  🚀 App Academy 2026
+   App Academy 2026
 </h1>
 
 
@@ -12,7 +12,7 @@
 
 ---
 
-# 👋 About This Repository
+#  About This Repository
 
 Welcome!
 
@@ -99,7 +99,7 @@ It's a timeline of my progress, mistakes, lessons, and achievements as I work to
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 
@@ -109,7 +109,7 @@ It's a timeline of my progress, mistakes, lessons, and achievements as I work to
 
 ---
 
-# 🚀 Motto
+#  Motto
 
 > **"One Commit Today. One Step Closer Tomorrow."**
 
