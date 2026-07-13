@@ -2,9 +2,6 @@
   🚀 App Academy 2026
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+App+Academy+Journey!;Learning+Software+Engineering.;Building+Projects+Every+Week.;One+Commit+at+a+Time.🚀" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning-success?style=for-the-badge">
